@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm lightpillar-et 👋
 
-<!--
-**lightpillar-et/lightpillar-et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things, learn in public, and use GitHub to explore ideas.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Turning ideas into practical software
+- Learning, experimenting, and improving one project at a time
+- Sharing useful work and collaborating with curious people
+
+## Let's connect
+
+Open to thoughtful collaboration and interesting technical conversations.
+
+---
+
+_Thanks for stopping by!_
